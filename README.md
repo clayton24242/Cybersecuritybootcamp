@@ -1,8 +1,9 @@
 ## Automated ELK Stack Deployment
 
+
 The files in this repository were used to configure the network depicted below.
 
-https://github.com/clayton24242/Cybersecuritybootcamp/blob/e53271d2c695ec4dbadfb0a207794734f7ced071/Diagram/Homework%2012.png
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _.yml____ file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -31,7 +32,7 @@ File beat monitors and collect logfile information, events and other metadata.
 MetricBeat records performance and statistical metrics of the various systems and services it has been provisioned on
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
+
 
 | Name               | IP Address | Usage       | OS                   |   |
 |--------------------|------------|-------------|----------------------|---|
