@@ -1,0 +1,10 @@
+---
+- name: My Playbook 
+  hosts: webservers
+  become: true
+  tasks:
+  - name: Install apache httpd
+    apt:
+        name: apache2
+        state: present
+root@b85ac81bf3be:/etc/ansible#
