@@ -5,7 +5,7 @@ The files in this repository were used to configure the network depicted below.
 
 https://github.com/clayton24242/Cybersecuritybootcamp/blob/121a378b59a1c59b1bbad726d442420cc5693709/Diagram/Network.png
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _.yml____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat.
 
   - elk.yml and filebeat-playbook.yml: Enter the playbook file are used to create and implement the elk server._
 
